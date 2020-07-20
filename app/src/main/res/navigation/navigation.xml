@@ -8,8 +8,8 @@
     <fragment
         android:id="@+id/titleFragment"
         android:name="com.example.android.navigation.TitleFragment"
-        android:label="fragment_title"
-        tools:layout="@layout/fragment_title" >
+        android:label="@string/game_start"
+        tools:layout="@layout/fragment_title">
         <action
             android:id="@+id/action_titleFragment_to_gameFragment"
             app:destination="@id/gameFragment" />
@@ -69,7 +69,7 @@
     <fragment
         android:id="@+id/aboutFragment"
         android:name="com.example.android.navigation.AboutFragment"
-        android:label="About"
+        android:label="@string/about"
         tools:layout="@layout/fragment_about">
         <action
             android:id="@+id/action_aboutFragment_to_gameFragment"
