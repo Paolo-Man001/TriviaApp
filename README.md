@@ -1,8 +1,5 @@
-AndroidTrivia - starter code
+AndroidTrivia - Complete Code
 ============================
-
-Starter code for Android Kotlin Fundamentals codelab 3.1: Create and add a
-fragment.
 
 Introduction
 ------------
