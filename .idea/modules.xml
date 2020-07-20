@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndKotFund_03_1_TriviaApp.iml" filepath="$PROJECT_DIR$/AndKotFund_03_1_TriviaApp.iml" group="AndKotFund_03_1_TriviaApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndKotFund_03_1_TriviaApp/app" />
+    </modules>
+  </component>
+</project>
